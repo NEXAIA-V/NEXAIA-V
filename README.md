@@ -2,6 +2,6 @@
 
 ### Hi, I'm Valdemar!
 
-👩🏻‍💻 Freelance programmer <br/>
+👩🏻‍💻 Freelancer <br/>
 👩🏻‍🎓 Studied at PUCP and National University of Engineering, Perú<br/>
-💭 Currently learning about data analytics <br/>
+💭 I´m interested in AI, data analytics and futuristic UI design <br/>

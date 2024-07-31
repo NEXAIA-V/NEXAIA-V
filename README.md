@@ -1,4 +1,4 @@
-### HI
+NEX AIA PROJECT
 
 - 👋 Hi, I’m @NEXAIA-V
 - 💻 I’m interested in AI, data analysis and futuristic UI design.

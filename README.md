@@ -2,9 +2,9 @@
 
 ### Hi, I'm Valdemar!
 
-👩🏻‍💻 Freelancer <br/>
-👩🏻‍🎓 Studied at PUCP and National University of Engineering, Perú<br/>
-💭 I´m interested in AI, Data Science and futuristic HUD design <br/>
+👩🏻‍💻 Data Scientist <br/>
+👩🏻‍🎓 UNI student from Perú<br/>
+💭 I´m interested in Data Science, AI and futuristic HUD design <br/>
 
 <!-- Level 2: Using a README generator GPRM (https://gprm.itsvg.in) -->
 
